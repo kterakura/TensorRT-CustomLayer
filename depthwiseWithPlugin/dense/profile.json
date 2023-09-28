@@ -1,0 +1,5 @@
+[
+  { "count" : 207490 }
+, { "name" : "conv1.weight", "timeMs" : 0, "averageMs" : 0, "medianMs" : 0, "percentage" : 0 }
+, { "name" : "onnx_graphsurgeon_node_0", "timeMs" : 783.213, "averageMs" : 0.0037747, "medianMs" : 0.003712, "percentage" : 100 }
+]

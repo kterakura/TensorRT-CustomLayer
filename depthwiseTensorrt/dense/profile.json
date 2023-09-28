@@ -1,0 +1,5 @@
+[
+  { "count" : 192359 }
+, { "name" : "/conv1/Conv", "timeMs" : 672.943, "averageMs" : 0.00349837, "medianMs" : 0.003424, "percentage" : 56.8479 }
+, { "name" : "PWN(/leakyrelu/LeakyRelu)", "timeMs" : 510.817, "averageMs" : 0.00265554, "medianMs" : 0.002432, "percentage" : 43.1521 }
+]
