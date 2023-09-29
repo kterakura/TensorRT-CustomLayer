@@ -58,6 +58,8 @@ depthwiseHMMAはどのようにHMMAを使っているのだろうか...
 
 ## 実行環境
 - **GPU**: NVIDIA GeForce RTX 2080 SUPER
+    - **SM数** 48
+    - **CUDAコア数** 3072
 - **GPUドライバ**: NVIDIA 535.104.05
 - **CUDA**: 11.8
 - **TensorRT**: 8.6.1
